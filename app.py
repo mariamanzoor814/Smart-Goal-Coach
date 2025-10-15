@@ -163,6 +163,17 @@ div.stButton>button{
   text-align:left;
   font-size:13px;
 }
+                        .stForm {
+  background: var(--card, #FFFFFF) !important;    /* card color from your root */
+  padding: 2.25rem !important;
+  border-radius: 14px !important;
+  box-shadow: 0 10px 30px rgba(17,24,39,0.06) !important;
+  margin: 3.25rem auto !important;               /* center horizontally with top spacing */
+  max-width: 520px !important;                   /* compact width on desktop */
+  width: calc(100% - 32px) !important;           /* responsive on mobile */
+  font-size: 15px !important;
+  color: var(--text) !important;
+}
 
 /* responsive fallback */
 @media (max-width:520px){
@@ -212,7 +223,7 @@ def render_sidebar_for(key_prefix="sb"):
 
 # ---------- AUTH UI ----------
 def login_ui():
-    st.markdown("<h2>🔐 Login</h2>", unsafe_allow_html=True)
+    st.markdown("<h2> Login</h2>", unsafe_allow_html=True)
     with st.form("login"):
         email = st.text_input("Email")
         password = st.text_input("Password", type="password")
@@ -231,7 +242,7 @@ def login_ui():
         go_to("signup")
 
 def signup_ui():
-    st.markdown("<h2>📝 Create Account</h2>", unsafe_allow_html=True)
+    st.markdown("<h2> Create Account</h2>", unsafe_allow_html=True)
     with st.form("signup"):
         name = st.text_input("Full name")
         email = st.text_input("Email")
