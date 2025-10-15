@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+sgsenv/
+goals.db
+goals.db.bak
+.streamlit/local*
+.vscode/
+.env
