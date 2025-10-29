@@ -57,3 +57,18 @@ Local rule-based “AI” generates motivational advice and improvement tips —
 Visual analytics showing completion trends, productivity score, and consistency streaks.
 
 ---
+
+## 🛠️ Installation & Setup
+
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/<your-username>/smart-goal-coach.git
+
+# 2️⃣ Navigate to the project directory
+cd smart-goal-coach
+
+# 3️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 4️⃣ Run the Streamlit app
+streamlit run app.py
