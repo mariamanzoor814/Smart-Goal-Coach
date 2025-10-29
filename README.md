@@ -58,6 +58,19 @@ Visual analytics showing completion trends, productivity score, and consistency 
 
 ---
 
+## show case
+
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/7936ee14-96a0-4076-abad-f7be4a5d304a" />
+<img width="1736" height="866" alt="image" src="https://github.com/user-attachments/assets/5e645019-9aa5-4f6b-80c7-6bdadf37d159" />
+<img width="1742" height="867" alt="image" src="https://github.com/user-attachments/assets/7c01c589-e367-4fa8-9e3b-268bd9d8b864" />
+<img width="1735" height="860" alt="image" src="https://github.com/user-attachments/assets/57f33fe3-72e4-42e6-8d5c-5493679c1655" />
+<img width="1743" height="863" alt="image" src="https://github.com/user-attachments/assets/61e66754-844e-443f-b30e-889fafe6ca97" />
+<img width="1742" height="864" alt="image" src="https://github.com/user-attachments/assets/557deba2-1d27-4e50-b3d3-eee938c8a1b3" />
+<img width="1730" height="866" alt="image" src="https://github.com/user-attachments/assets/b0e8f367-1d1c-4b46-90e3-f7762b9278ad" />
+
+
+
+
 ## 🛠️ Installation & Setup
 
 ```bash
