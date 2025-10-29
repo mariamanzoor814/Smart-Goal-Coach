@@ -62,7 +62,7 @@ Visual analytics showing completion trends, productivity score, and consistency 
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/<your-username>/smart-goal-coach.git
+git clone https://github.com/mariamanzoor814/Smart-Goal-Coach.git
 
 # 2️⃣ Navigate to the project directory
 cd smart-goal-coach
