@@ -29,8 +29,8 @@ Everything runs **locally and free**, using only open-source tools — ideal for
 | **Frontend + Backend** | [Streamlit](https://streamlit.io/) | Unified UI + backend logic |
 | **Database** | [SQLite](https://www.sqlite.org/) | Store goals, tasks, and progress records |
 | **AI Simulation** | Rule-based Engine | Generate realistic motivational feedback |
-| **Visualization** | Plotly / Streamlit Charts | Track progress and completion rates |
-| **Deployment** | Streamlit Cloud / Hugging Face Spaces | Free hosting, no setup required |
+| **Visualization** |  Streamlit Charts | Track progress and completion rates |
+| **Deployment** | Streamlit Cloud | Free hosting, no setup required |
 
 ---
 
